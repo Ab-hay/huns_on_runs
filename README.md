@@ -47,7 +47,7 @@ This Python script automates farming tasks in the Travian game using Selenium fo
 
 Run the script using Python:
 ```bash
-python3 your_script_name.py
+python3 auto_farmer.py
 ```
 
 ### What the script does:
